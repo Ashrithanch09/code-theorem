@@ -65,6 +65,8 @@ footer {
 }
 This is a very basic example to get started. 
 
+For bonus points, you would need to make sure your design is responsive by using media queries in your CSS to adjust the layout for different screen sizes. Additionally, you would need to ensure accessibility by using semantic HTML elements, providing appropriate alt text for images, and making sure interactive elements are keyboard accessible.
+
 
 
 
