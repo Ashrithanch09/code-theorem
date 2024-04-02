@@ -4,8 +4,6 @@ Here's a basic example of how you might structure your HTML/CSS code to match th
 
 HTML:
 
-html
-Copy code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,8 +29,6 @@ Copy code
 </html>
 CSS (styles.css):
 
-css
-Copy code
 /* Reset styles */
 * {
     margin: 0;
@@ -67,9 +63,7 @@ footer {
     color: #fff;
     padding: 10px;
 }
-This is a very basic example to get you started. You would need to replace the placeholder content with the actual content from the Figma designs and adjust the CSS accordingly to match the styles specified in the designs.
-
-For bonus points, you would need to make sure your design is responsive by using media queries in your CSS to adjust the layout for different screen sizes. Additionally, you would need to ensure accessibility by using semantic HTML elements, providing appropriate alt text for images, and making sure interactive elements are keyboard accessible.
+This is a very basic example to get started. 
 
 
 
